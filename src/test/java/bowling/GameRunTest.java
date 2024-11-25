@@ -21,7 +21,7 @@ class GameRunTest {
 		assertEquals(1, partie.numeroTourCourant(),
 				"On doit commencer au tour n°1");
 		assertEquals(1, partie.numeroProchainLancer(),
-				"On doit commencer à la boule n°1");
+			"On doit commencer à la boule n°1");
 	}
 
 	@Test
